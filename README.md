@@ -1,2 +1,1 @@
-# TW_Shogun2_mods
-![Shogun 2 Mods Banner]([https://github.com/pureAliNajafi/TW_Shogun2_mods/raw/main/assets/images/shogun2_mods.jpg](https://github.com/pureAliNajafi/TW_Shogun2_mods/blob/main/assets/images/shogun2_mods.jpg?raw=true))
+![TW_Shogun2_mods](https://github.com/user-attachments/assets/a61068f0-ecae-4b14-b68f-67eb1a059528)
