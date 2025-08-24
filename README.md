@@ -13,8 +13,8 @@ I created these mods to solve specific gameplay quirks I wanted to change. this 
 | Mod name | Description  | 
 |--------|--------|
 | [Mighty General Unit](mighty-general-unit/) | Increases the combat stats of the general's bodyguard unit, making them as powerful as hero units. |
-| Cell | Cell |
-| Cell | Cell | 
+| [Delayed Realm Divide](delayed-realm-divide/) | Doubles the amount of "prestige" (fame) required to trigger the Realm Divide event. Allows for longer expansion before the endgame crisis. |
+
 
 ## Installation  Usage
 
