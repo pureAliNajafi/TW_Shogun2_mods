@@ -12,7 +12,7 @@ I created these mods to solve specific gameplay quirks I wanted to change. this 
 
 | Mod name | Description  | 
 |--------|--------|
-| [Mighty Generals](mighty-generals/) | Transforms general units into powerful, heroic figures capable of turning the tide of battle. |
+| [Mighty General Unit](mighty-general-unit/) | Increases the combat stats of the general's bodyguard unit, making them as powerful as hero units. |
 | Cell | Cell |
 | Cell | Cell | 
 
