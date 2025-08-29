@@ -1,4 +1,4 @@
-# Mighty General Unit
+# Stronger General Unit
 
 This mod Increases the combat stats of the general's bodyguard unit, making them stronger.
 
